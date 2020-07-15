@@ -15,6 +15,8 @@ import java.util.Map;
 
 public class JsonTest {
 
+    private String aa;
+
     public static void main(String[] args) {
       //  JsonTest.test01();
        // JsonTest.test02();

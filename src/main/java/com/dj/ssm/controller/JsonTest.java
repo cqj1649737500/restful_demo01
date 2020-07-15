@@ -18,7 +18,10 @@ public class JsonTest {
     private String aa;
 
     private String u;
-
+    
+    public void a(){
+        private String s;
+    }
     public static void main(String[] args) {
       //  JsonTest.test01();
        // JsonTest.test02();

@@ -19,10 +19,14 @@ public class JsonTest {
 
     private String u;
 
-    public void  a(){
+    public void  ab(){
         System.out.println("s");
     }
 
+
+    public void a(){
+        System.out.println("b");
+    }
     public static void main(String[] args) {
       //  JsonTest.test01();
        // JsonTest.test02();

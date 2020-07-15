@@ -17,6 +17,8 @@ public class JsonTest {
 
     private String aa;
 
+    private String u;
+
     public static void main(String[] args) {
       //  JsonTest.test01();
        // JsonTest.test02();

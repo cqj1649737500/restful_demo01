@@ -18,6 +18,7 @@ public class JsonTest {
     private String aa;
 
     private String u;
+    private String uy;
 
     public void  ab(){
         System.out.println("s");
